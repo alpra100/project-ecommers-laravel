@@ -67,7 +67,7 @@
         </nav>
         @endguest
 	<div class="content">
-		<h1 class="title">E - Commerce</h1>
+		<h1 class="title">E - Commerce || alpra</h1>
 		<h3>The Best Place for Any Solutions</h3>
 	</div>
 	<div class="container">
